@@ -14,7 +14,7 @@ I'm currently aiming to deepen my expertise in both data engineering and web dev
 
 * 🌍  I'm based in Subang Jaya, Selangor
 * ✉️  You can contact me at [wongqiheng06@gmail.com](mailto:wongqiheng06@gmail.com)
-* 🧠  I'm currently learning C++
+* 🧠  I'm currently learning C++ and MATLAB
 * 👥  I'm looking to collaborate on Web projects related with data manipulation
 
 <p align="left">
